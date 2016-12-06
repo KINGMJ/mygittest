@@ -18,3 +18,5 @@ Creating a new branch is quick and simple.
 >Edit from github,By @Jerry.Mei
 
 >Edit from phpstorm, By @Jerry.Mei
+
+Edit from github:Git is very useful.
