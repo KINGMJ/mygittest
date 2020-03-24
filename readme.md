@@ -21,4 +21,4 @@ Creating a new branch is quick and simple.
 
 Edit from github:Git is very useful.
 
-不影响master分支
+不影响master分支，提交到远程test2分支
