@@ -24,3 +24,5 @@ Edit from github:Git is very useful.
 new add
 
 测试ssh key
+
+配置双环境
