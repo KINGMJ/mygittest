@@ -23,7 +23,7 @@ Edit from github:Git is very useful.
 
 new add
 
-测试是否有统计contributions
+测试是否有统计contributions，有吗有吗
 
 测试ssh key
 
